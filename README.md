@@ -1,5 +1,6 @@
-### Sergio Eloy Espadas
-# 🇲🇽 About Me / Acerca de mí
+# Sergio Eloy Espadas
+
+## About Me / Acerca de mí
 ## English
 Hi! My name is Sergio Eloy Espadas, and I’m from Mexico. I’m an Engineer by profession, and I’m a huge fan of JavaScript and its derivatives. I’m currently developing with NextJS, NodeJS, TypeScript, and Langchain, and I consider myself an expert in the WhatsApp API.
 
